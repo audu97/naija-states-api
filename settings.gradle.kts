@@ -1,0 +1,1 @@
+rootProject.name = "com.naijaState.naija-states-api"
